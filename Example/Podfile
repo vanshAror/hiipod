@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'hiipod_Example' do
+  pod 'hiipod', :path => '../'
+
+  target 'hiipod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
