@@ -1,0 +1,6 @@
+framework module hiipod {
+  umbrella header "hiipod-umbrella.h"
+
+  export *
+  module * { export * }
+}

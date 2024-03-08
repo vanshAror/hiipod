@@ -1,0 +1,16 @@
+PODS:
+  - hiipod (0.1.0)
+
+DEPENDENCIES:
+  - hiipod (from `../`)
+
+EXTERNAL SOURCES:
+  hiipod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hiipod: 25270950e27ce6fb7baec736ad26dad12243ad05
+
+PODFILE CHECKSUM: 7b177c4dc8422382a379cf882f81d199865cce2f
+
+COCOAPODS: 1.10.0

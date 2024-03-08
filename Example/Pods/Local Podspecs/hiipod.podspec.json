@@ -1,0 +1,22 @@
+{
+  "name": "hiipod",
+  "version": "0.1.0",
+  "summary": "A short description of hiipod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vansh/hiipod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vansh": "avansh2001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/vansh/hiipod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "hiipod/Classes/**/*"
+}
